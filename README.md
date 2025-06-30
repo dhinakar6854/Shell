@@ -1,3 +1,3 @@
 # Shell
-Schell Scripts
+Schell Scripts and practice
 hello dina
